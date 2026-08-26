@@ -1,0 +1,6 @@
+{
+  "name": "RG Construcciones y Servicios",
+  "description": "Sitio web oficial de Construcciones & Servicios RG en Yucatán y el sureste de México. Construcción, ingeniería, remodelación, estructuras metálicas y mantenimiento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
